@@ -2,7 +2,7 @@
 Peregrine Laser Power Meter (LPM) Utility
 
 Initial release of Peregrine LPM 1.6.0, a utility to collect and graph data from various Laser Power Meters.  With Peregrine,
-you can connect to a variety of Laser Power Meters, collect data, create graphs, and save/export those data and graphs.
+you can connect to a variety of Laser Power Meters via RS232 or USB, collect and analyze data with graphs and exported CSV files.
 
 Peregrine is written in the Processing IDE, which produces a Java application.  See the "Releases" page for installation tips.
 
