@@ -8,4 +8,4 @@ Peregrine is written in the Processing IDE, which produces a Java application.  
 
 History: Peregrine was originally written as closed source by Trevor White. His last updates were in Oct-2013. Between 2013 and 2021, updates to Java
 rendered the existing code inoperable, and updates to Processing made it impossible to recompile. Mr. White released Peregrine as Open Source, under GNU 
-License, in Nov-2017.  This project picks up from there, with an initial release of version 1.6.0.
+License, in Nov-2017.  This project picks up from there, with an initial release of version 1.6.0 in August 2021.
