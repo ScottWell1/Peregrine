@@ -48,10 +48,10 @@ import controlP5.*;
 import processing.serial.*;
 import java.util.*;
 import java.io.*;
-import java.security.*;
+//import java.security.*;
 
-import java.awt.Frame;
-import java.awt.BorderLayout;
+//import java.awt.Frame;
+//import java.awt.BorderLayout;
 
 // Version definition
 String version = "1.6.0";
